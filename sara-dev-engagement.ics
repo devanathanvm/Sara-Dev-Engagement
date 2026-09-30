@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sara and Dev//Engagement Invitation//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sara-dev-engagement-20261129T170000@invitation.local
+DTSTAMP:20260930T130459Z
+DTSTART:20261129T113000Z
+DTEND:20261129T153000Z
+SUMMARY:Sara & Dev — Engagement
+LOCATION:The Boomerang Complex\, Sector 128\, Noida\, Uttar Pradesh 201304
+DESCRIPTION:Join us for Sara & Dev’s engagement.\nSunday\, 29 November 20
+ 26 — 5:00 PM onwards (India Standard Time).\nVenue: The Boomerang Comple
+ x\, Sector 128\, Noida\, Uttar Pradesh 201304.\nDirections: https://maps.a
+ pp.goo.gl/XKC1M1kZ4pp4SV8s7
+URL:https://maps.app.goo.gl/XKC1M1kZ4pp4SV8s7
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
